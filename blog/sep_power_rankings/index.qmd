@@ -1,0 +1,19 @@
+---
+title: "September Power Rankings"
+description: "Have things changed since August?"
+author:
+  -name: Quinn Robnett
+date: 08-18-2023
+image: thumbnail.png
+draft: false
+twitter-card: 
+  image: "thumbnail.png"
+format:
+  html:
+    include-before-body: ../../html/margin_image.html
+    include-after-body: ../../html/blog_footer.html
+---
+
+# 1. Vegas Golden Knights
+
+# 2. Carolina Hurricanes

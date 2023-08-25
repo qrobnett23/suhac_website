@@ -1,0 +1,30 @@
+---
+title: "Blog"
+author: ""
+title-block-banner: false
+page-layout: full
+description-meta: "Welcome to our blog where we post hockey analysis, opinions, and more!"
+
+listing:
+  - id: posts_2023
+    contents: 
+      - "aug_power_rankings/index.qmd"
+    sort: "date desc"
+    categories: true
+    
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+image: ""
+code-tools: false
+comments: false
+---
+
+Welcome to our blog where we post hockey analysis, opinions, and more!
+
+## 2023
+
+:::{#posts_2023}
+:::
+
+---
