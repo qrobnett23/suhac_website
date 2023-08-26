@@ -18,14 +18,12 @@ website:
     
     # your social media handles
     right:
-      - text: "Projects"
+      - text: "Schedule"
         href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
       - text: "Blog"
         href: blog/index.qmd
-      - text: "CV"
-        href: cv/index.qmd      
+      - text: "Photos"
+        href: photography/index.qmd      
       - icon: twitter
         href: https://twitter.com/su_hockeyclub
       - icon: instagram
@@ -41,12 +39,8 @@ website:
     location: navbar
     type: textbox
   page-footer: 
-    left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/qrobnett23/suhac_website">View source on GitHub</a></span>
 
 project:
   type: website
