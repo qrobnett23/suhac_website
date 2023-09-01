@@ -1,4 +1,16 @@
 ---
 title: "Schedule"
+page-layout: full
 ---
 
+#### Upcoming Events
+|   Event      |   Date      | Time | Location | Description |
+|:-------------|:------------|:-----|:---------|:------------|
+| Club Meeting | August 28   | 5:30 | Falk 407 | First meeting! Introductions, club overview, season predictions, trivia |
+| Club Meeting | September 4   | 5:30 | Remote | Season predictions, go over club plans, introduce mock offseason |
+
+
+
+: {tbl-colwidths="[15, 15, 10, 10, 50]"}
+
+#### Past Events

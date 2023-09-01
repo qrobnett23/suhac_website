@@ -1,5 +1,6 @@
 ---
 title: "Photos"
+page-layout: full
 ---
 
 No photos yet. Check back soon!

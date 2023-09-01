@@ -19,7 +19,9 @@ website:
     # your social media handles
     right:
       - text: "Schedule"
-        href: projects/index.qmd
+        href: schedule/index.qmd
+      - text: "Activities"
+        href: activities/index.qmd        
       - text: "Blog"
         href: blog/index.qmd
       - text: "Photos"
