@@ -6,11 +6,21 @@ page-layout: full
 #### Upcoming Events
 |   Event      |   Date      | Time | Location | Description |
 |:-------------|:------------|:-----|:---------|:------------|
-| Club Meeting | August 28   | 5:30 | Falk 407 | First meeting! Introductions, club overview, season predictions, trivia |
-| Club Meeting | September 4   | 5:30 | Remote | Season predictions, go over club plans, introduce mock offseason |
+| Guest Speaker | September 25  | 5:15 | Falk 407, Zoom | Sam Ventura, VP of Hockey Strategy and Research, Buffalo Sabres |
+| Club Meeting | September 25   | 6:00 | Falk 407 | Mock offseason day 2, fantasy draft lottery |
+| Club Meeting | October 2   | 5:30 | Falk 407 | Fantasy draft |
 
 
 
 : {tbl-colwidths="[15, 15, 10, 10, 50]"}
 
 #### Past Events
+
+|   Event      |   Date      | Time | Location | Description |
+|:-------------|:------------|:-----|:---------|:------------|
+| Club Meeting | August 28   | 5:30 | Falk 407 | First meeting! Introductions, club overview, season predictions, trivia |
+| Club Meeting | September 4   | 5:30 | Remote | Season predictions, go over club plans, introduce mock offseason |
+| Club Meeting | September 11   | 5:30 | Falk 407 | Prep for mock offseason, fantasy league |
+| Club Meeting | September 18   | 5:30 | Falk 407 | Mock offseason day 1 |
+
+: {tbl-colwidths="[15, 15, 10, 10, 50]"}

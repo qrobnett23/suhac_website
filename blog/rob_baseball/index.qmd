@@ -1,0 +1,101 @@
+---
+title: "Introducing the 2023–24 New Jersey Devils Baseball Team"
+description: "Have things changed since August?"
+author: "Rob White"
+date: 08-19-2023
+image: devils.png
+draft: false
+twitter-card: 
+  image: "devils.png"
+fig-cap-location: bottom
+
+---
+
+Let’s have some fun, shall we? Let’s get weird.  
+
+
+{{< tweet DevilsInsiders 1691518585632354305 >}}
+
+
+Now, because I can never just let things be simple and need to overcomplicate things for myself here’s a few things before I get started (feel free to skip this part if you just don’t care):
+
+* I determined batter handedness based on how they shoot. I understand that in places outside of the US, right-handed players learn to shoot lefty. I still listed them down as hits left because as a left-handed person it’s nice to be represented. Unfortunately, there’s a lot of lefties than I thought so I had to change a couple guys (sorry Luke Hughes and Kevin Bahl). Handedness for the goalies was listed as the opposite of what NHL says their catching hand is, the idea being they would then throw with their non-gloved hand.
+
+* I completely ignored throwing hand as it would make this far too complex. For those who don’t play baseball, it’s incredibly rare to see a left-handed thrower play third base, shortstop, second base, or catcher but in this case, I’m just going to assume that they are the correct handedness for the field.
+
+* I took almost everyone from the Devils roster currently on NHL.com plus Kevin Bahl who for some reason was not there (and who I initially forgot). There’s 28 guys on this roster, so we will pretend we had September call-ups and rosters expanded. See what I mean when I say I overcomplicate things?
+
+I think that covers everything. With that all being said, here is my Devils roster if they were a baseball team, with explanations for the lineup, and some of the pitching staff below:
+
+
+![Personally, I think the pitching can be a little bit better, but when I tell you that batting order has some hitters… phew. Believe me, this team will rake](lineup.webp){fig-alt="A depiction of the starting lineup on a baseball field"}
+
+
+#### Explanations: Lineup
+  
+  
+##### Dawson Mercer, Shortstop, Batting 1st
+
+I genuinely believe you could put Dawson Mercer anywhere on the diamond and he’d make it work. I could throw in a lot of cliches about grittiness and athleticism but Mercer is a guy who will set the table for the lineup, could definitely swipe a few bags, would make a great leadoff guy.
+
+##### Nico Hischier, First Base, Batting 2nd
+
+I spent a lot of time deciding where Nico would play mostly because he’s known as a two-way player, but defense at the 1B position isn’t all that important. However, this could make Nico a shoo-in for a gold glove, which I’m all for. On offense he’s an elite OBP guy, draws a ton of walks and has above average slugging. A lot of doubles and could pop around 25-30 homers.
+
+##### Jack Hughes, Center Field, Batting 3rd
+
+It shouldn’t be a surprise that Jack is manning center field. He’s quick and has skilled footwork that will allow him to command the outfield and track down flyballs and would turn him into an elite defender. At the plate, he has above average bat to ball skills and the ability to crank out 20 homers and 20+ steals if you’re not careful. A ridiculously high floor. I think you could honestly consider him hitting first or second, but I think he’s a guy you want guys on base for, which is why I think he fits nicely batting behind OBP machines in Mercer and Hischier.
+
+##### Timo Meier, Third Base, Batting 4th
+
+Timo Meier to me feels like a 2023 Austin Riley: 30+ homers and solid enough defense at the hot corner where it doesn’t really matter. Also who cares because he has an .800 OPS and 30 homers.
+
+##### Dougie Hamilton, Designated Hitter, Batting 5th
+
+Don’t over think this, this is the most obvious one.
+
+##### Jesper Bratt, Second Base, Batting 6th
+
+I struggled for a while to place Bratt. He feels to me as he used to be a shortstop but eventually had to make the transition to second base. Not the best hitter, but he’ll definitely come through for you at most points.
+
+##### Tyler Toffoli, Left Field, Batting 7th
+
+Toffoli doesn’t get a lot of love batting at the bottom of the order, but don’t get it twisted, he’s still a solid bat to go along with a solid glove in left field. Wouldn’t be surprised to see him move up a couple spots in the lineup over the year.
+
+##### Akira Schmid, Catcher, Batting 8th
+
+Feels like it’s just natural for the catcher to be the goalie. It just makes sense. I chose Schmid as the starter but catchers will rotate a lot so Vitek will get his time in.
+
+##### John Marino, Right Field, Batting 9th
+
+John Marino will be our glove-first outfielder. What he lacks in offense he makes up for in his stellar defense. Now where have I heard that before.
+
+
+#### Rotation/Bullpen
+  
+  
+
+##### Alexander Holtz
+
+Holtz is the guy who’s your top prospect but you haven’t really seen enough of him in the show yet to really sell him on you. I think given the opportunity, this guy will shine. Good fastball with a deceptive curveball, the ceiling is high.
+
+##### Jonas Siegenthaler
+
+The idea of Siegenthaler being a pitcher is hilarious to me because he’s a solid player doesn’t get a lot of love outside of New Jersey for it, but he’ll eat a ton of innings for you with a mid-3 ERA with some funny post-game interviews here and there.
+
+##### Erik Haula
+
+Undoubtedly the dad of the team, Erik Haula is definitely in the bullpen each game cracking jokes nonstop until it’s his time to come in. He brings good vibes and he does well in his role.
+
+##### Curtis Lazar
+
+Lazar is an absolute workhorse, which is why I think he’s built perfectly for long relief. He’ll come in a blowout game just about when you’ve forgotten he’s still in the bullpen, crank out 3 scoreless innings like it’s no big deal, and everyone goes oh yeah we have Curtis Lazar on our team, isn’t that fun?
+
+##### Nico Daws
+
+I’ll be 100% honest: I only put Nico Daws as the closer because I have an image in my head of the lights shutting off and the Jaws theme starts to play. I don’t care if it’s corny, or cliche, or if someone else did it first. I think this would rock. And also Nico Daws is awesome and he would make an elite closer.
+
+
+Did I spend way too long on this? Absolutely. But I regret none of it. If you made this far, I hope you found some humor in this. Writing serious stuff is cool (more coming soon this winter!) but a nice fun piece is always welcome. Go Devils!
+
+

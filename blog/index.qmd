@@ -9,6 +9,7 @@ listing:
   - id: posts_2023
     contents: 
       - "aug_power_rankings/index.qmd"
+      - "rob_baseball/index.qmd"      
     sort: "date desc"
     categories: true
     

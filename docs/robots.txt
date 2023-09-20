@@ -1,1 +1,1 @@
-Sitemap: https://suhockeyanalyticsclub.netlify.app/sitemap.xml
+Sitemap: https://su_hockeyclub.netlify.app/sitemap.xml

@@ -1,0 +1,6 @@
+---
+title: "Activities"
+page-layout: full
+---
+
+No activities yet. Check back soon!
