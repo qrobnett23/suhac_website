@@ -1,6 +1,6 @@
 ---
 title: "Introducing the 2023–24 New Jersey Devils Baseball Team"
-description: "Have things changed since August?"
+description: "Let’s have some fun, shall we? Let’s get weird. "
 author: "Rob White"
 date: 08-19-2023
 image: devils.png
